@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "custom-header": "../../components/header/header",
+    "i-button": "../../iview/button/index",
+    "i-panel": "../../iview/panel/index",
+    "i-input": "../../iview/input/index"
+  }
+}

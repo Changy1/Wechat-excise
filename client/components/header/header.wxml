@@ -1,0 +1,8 @@
+<!--components/header/header.wxml-->
+<view class='custom-header'>
+  <view class='left'>
+    <i-icon type="return" size="28" color="#ffffff" />
+  </view>
+  <text> <slot></slot> </text>
+  <view class='right'></view>
+</view>
